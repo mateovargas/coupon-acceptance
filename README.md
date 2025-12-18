@@ -1,3 +1,4 @@
+#Analysis of Findings
 This analysis examined how drivers respond to digital coupons, with a particular focus on bar and carry out coupons. The results show that coupon acceptance depends strongly on the type of coupon being offered to the driver.
 
 Bar coupons were accepted primarily by drivers whose behavior and life context already aligned with visiting bars. Drivers who frequently go to bars, did not have children as passengers, were younger, or were in more flexible life stages were substantially more likely to accept bar coupons than drivers who did not fall into one of these categories. This suggests that bar coupons are most effective when targeted toward specific segments of the population rather than broadly distributed. For example, it would make sense to focus distribution in areas with high concentrations of young, working professionals rather than in more suburban, family oriented areas.
